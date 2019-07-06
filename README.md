@@ -4,4 +4,4 @@ A minimal Node crawler to find emails used inside a website content, this crawle
 You can find list of extracted emails in  `email-extractor-crawler-db.json` in the root directory.
 
 ## How to use?
-Update the first line of `src/index.json` (domain) to your preferred domain name (the full path of domain is necessary, ex: `https://google.com/`). Then just in terminal run `node src/index.js`
+Update the first line of `src/index.js` (domain) to your preferred domain name (the full path of domain is necessary, ex: `https://google.com/`). Then just in terminal run `node src/index.js`
